@@ -1,13 +1,11 @@
-# 👋 Hi, I’m @Rudra-10
+Aspiring AI Software Engineer currently building foundational skills in Python and Cloud (AWS). 
+I am focused on learning by doing: small projects, consistent GitHub activity, and developing real-world problem-solving ability. 
 
-- 👀 I’m interested in programming and building cool tech
-- 🌱 Currently in my 1st year of university (17 years old)
-- 👨‍💻 I’m looking forward to becoming a future tech builder and innovator
-- 📫 Reach me at: **rudralimbachiya10@gmail.com**
-- 💡 If you have any suggestions or feedback on my projects, feel free to help or connect!
+Right now, I am:
+- Learning Python fundamentals & automation
+- Studying AWS Cloud Practitioner Essentials
+- Exploring open-source & MLH Fellowship opportunities
 
----
-<!---
-Rudra-10/Rudra-10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My goal is to grow into someone who can build practical tools, collaborate on projects,
+and contribute to software that solves real user problems. I am not claiming expertise—
+I am building it step-by-step, in public.
