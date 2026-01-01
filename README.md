@@ -9,3 +9,8 @@ Right now, I am:
 My goal is to grow into someone who can build practical tools, collaborate on projects,
 and contribute to software that solves real user problems. I am not claiming expertise—
 I am building it step-by-step, in public.
+
+Current Skills (Learning Stage)
+- Python (basics, CLI apps, file handling, JSON(basics))
+- AWS Cloud Practitioner Essentials (just started)
+- Git & GitHub (commits, pushing projects)
